@@ -1,15 +1,15 @@
-#Read-me
+# Read-me
 
 Automated workflow to request from your localhost computation to another server using their data but using the computation you have in your localhost.
 
-###Virtual Machine
+### Virtual Machine
 
 Operating system : Ubuntu 20_04-lts-gen2
 Public IP: 20.251.115.193
 Username: azureuser
 
 
-##Streamlit
+## Streamlit
 
 page 1 : The buttom will create a .txt file in the virtual machine
 
