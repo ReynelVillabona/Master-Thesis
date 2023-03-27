@@ -22,6 +22,8 @@ Before starting, communicate with me so I can start running the Virtual Machine 
 Open a powershell windows shell, check the status of your SSH by using "Get-Service sshd" then if if stopped start it using "Start-Service sshd".
 Remember you have to configure yourself OpenSSH server and client to do SSH request.
 
+Define the path where the private key is in your computer. Private key is .pem file.
+
 Open the streamlit code and run it using "streamlit run app.py", you have to install streamlit if you do not have it "pip streamlit"
 
 Go to Page 2 in streamlit adn press the buttom it will take a few seconds and it will display the sum of the two numbers of the SQLite table created in the Ubuntu Virtual Machine 
